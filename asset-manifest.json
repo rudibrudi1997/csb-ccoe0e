@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://rudibrudi1997.github.io/csb-ccoe0e/static/css/main.bc106d05.chunk.css",
+    "main.js": "https://rudibrudi1997.github.io/csb-ccoe0e/static/js/main.d2d7048e.chunk.js",
+    "main.js.map": "https://rudibrudi1997.github.io/csb-ccoe0e/static/js/main.d2d7048e.chunk.js.map",
+    "runtime-main.js": "https://rudibrudi1997.github.io/csb-ccoe0e/static/js/runtime-main.6b04b68d.js",
+    "runtime-main.js.map": "https://rudibrudi1997.github.io/csb-ccoe0e/static/js/runtime-main.6b04b68d.js.map",
+    "static/js/2.7bb4a017.chunk.js": "https://rudibrudi1997.github.io/csb-ccoe0e/static/js/2.7bb4a017.chunk.js",
+    "static/js/2.7bb4a017.chunk.js.map": "https://rudibrudi1997.github.io/csb-ccoe0e/static/js/2.7bb4a017.chunk.js.map",
+    "index.html": "https://rudibrudi1997.github.io/csb-ccoe0e/index.html",
+    "static/css/main.bc106d05.chunk.css.map": "https://rudibrudi1997.github.io/csb-ccoe0e/static/css/main.bc106d05.chunk.css.map",
+    "static/js/2.7bb4a017.chunk.js.LICENSE.txt": "https://rudibrudi1997.github.io/csb-ccoe0e/static/js/2.7bb4a017.chunk.js.LICENSE.txt",
+    "static/media/Bachelorwork.137c106a.png": "https://rudibrudi1997.github.io/csb-ccoe0e/static/media/Bachelorwork.137c106a.png",
+    "static/media/Games_of_PM.c8eb656d.png": "https://rudibrudi1997.github.io/csb-ccoe0e/static/media/Games_of_PM.c8eb656d.png",
+    "static/media/Jobwatch_concepts.18bfa5bc.png": "https://rudibrudi1997.github.io/csb-ccoe0e/static/media/Jobwatch_concepts.18bfa5bc.png",
+    "static/media/lance-asper-unsplash.ff4e4a36.jpg": "https://rudibrudi1997.github.io/csb-ccoe0e/static/media/lance-asper-unsplash.ff4e4a36.jpg",
+    "static/media/movisens_RGB_Web.5b49b5c2.png": "https://rudibrudi1997.github.io/csb-ccoe0e/static/media/movisens_RGB_Web.5b49b5c2.png",
+    "static/media/pexels-kevin-ku-577585.92f12f07.jpg": "https://rudibrudi1997.github.io/csb-ccoe0e/static/media/pexels-kevin-ku-577585.92f12f07.jpg",
+    "static/media/user_2.6c63bee9.png": "https://rudibrudi1997.github.io/csb-ccoe0e/static/media/user_2.6c63bee9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b04b68d.js",
+    "static/js/2.7bb4a017.chunk.js",
+    "static/css/main.bc106d05.chunk.css",
+    "static/js/main.d2d7048e.chunk.js"
+  ]
+}
